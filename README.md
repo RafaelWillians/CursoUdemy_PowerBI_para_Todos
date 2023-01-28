@@ -2,7 +2,7 @@
 
 Olá! Este repositório terá o conteúdo utilizado no curso [Power BI para Todos: Fácil e Simples!](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/), disponível no site da Udemy. É um "esquenta" para a certificação PL-900 e as seguintes da Microsoft.
 
-O caso de uso é simulando uma empresa de varejo. . Como identifiquei uma oportunidade para ingressar na área de BI, por hora vou focar nestes conteúdos para em breve fazer o exame da certificação PL-900. Assim que concluir a certificação, volto a alimentar os conteúdos dos outros repositórios. 
+O caso de uso é simulando uma empresa de varejo. Temos uma base de dados no Excel, em que precisamos responder algumas perguntas para os administradores da organização. 
 
 ## [Material do curso para download](https://www.eia.ai/material_download)
 
@@ -26,7 +26,14 @@ Com o Power BI, iremos responder estas perguntas de forma visual, intuitiva, par
 * Quanto cada produto representa em vendas mensalmente? Aqui nos referimos ao percentual e não à quantidade. Para a quantidade em si, é a pergunta seguinte.
 * Qual a quantidade de venda de cada produto por mês? Aqui nos referimos a quantidade.
 
-## Relatório - [Link para baixar o arquivo](/RelatorioVarejo.pbix) 
+## Relatório - [Link para baixar o arquivo em pbix](/RelatorioVarejo.pbix) 
+
+## Painéis
+
+* Clientes
+* Vendedores
+* Produtos
+* Vendas
 
 ## Conteúdo adicional
 
