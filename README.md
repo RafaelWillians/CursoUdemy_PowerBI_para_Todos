@@ -26,14 +26,29 @@ Com o Power BI, iremos responder estas perguntas de forma visual, intuitiva, par
 * Quanto cada produto representa em vendas mensalmente? Aqui nos referimos ao percentual e não à quantidade. Para a quantidade em si, é a pergunta seguinte.
 * Qual a quantidade de venda de cada produto por mês? Aqui nos referimos a quantidade.
 
-## Relatório - [Link para baixar o arquivo em pbix](/RelatorioVarejo.pbix) 
+## Relatório Power BI (com navegação) - [Link para baixar o arquivo em pbix](/RelatorioVarejo.pbix) 
+
+## Relatório Power BI (em PDF) - [Link para baixar](PDF/RelatorioVarejo.pdf) 
 
 ## Painéis
 
+* Inicial
+
+![](Img/Inicial.png)
+
 * Clientes
+
+![](Img/Clientes.png)
+
 * Vendedores
+* ![](Img/Vendedores.png)
 * Produtos
+
+![](Img/Produtos.png)
+
 * Vendas
+
+![](Img/Vendas.png)
 
 ## Conteúdo adicional
 
